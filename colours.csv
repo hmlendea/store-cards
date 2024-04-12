@@ -1,0 +1,41 @@
+Store Name,Store ID,Background Colour,Foreground Colour,Code Format
+Auchan,auchan,#FF2F47,#FFFFFF,EAN-13
+Brico Dépôt,brico_depot,#FD0000,#FFFFFF,Code-128
+Carrefour,carrefour,#00529E,#FFFFFF,EAN-13
+C&A,ca,#212B36,#FFFFFF,Code-128
+Catena,catena,#04844C,#FFFFFF,EAN-13
+Cărturești,carturesti,#71984A,#FFFFFF,Code-128
+Clinica Sante,clinica_sante,#FFFFFF,#F68122,EAN-13
+Cora,cora,#293F91,#FFFFFF,Code-128
+COVID-19 Certificate,#003399,#FFC00,QR
+Decathlon,decathlon,#1482C2,#FFFFFF,EAN-13
+dm,dm,#FFFFFF,#2E4B94,QR
+Dr.Max,drmax,#78BE20,#FFFFFF,EAN-13
+Ducfarm,ducfarm,#A3C51C,#FFFFFF,Code-128
+Ecofarmacia,ecofarmacia,#1C4481,Code-128
+Elmafarm,elmafarm,#1AA174,#FFFFFF,Code-39
+Farmacia DONA,farmacia_dona,#008DA8,#FFFFFF,Code-2of5 Interleaved
+Farmacia Richter,farmacia_richter,#22605B,#FFFFFF,EAN-13
+Help Net,help_net,#EF7301,#FFFFFF,Code-128
+H&M,hm,#FFFFFF,#F70000,Code-128
+Hornbach,hornbach,#F69330,#FFFFFF,Code-128
+IKEA,ikea,#0058A3,#FBD914,Code-39
+Kaufland,kaufland,#E10915,#FFFFFF,QR
+Kitchen Shop,kitchen_shop,#EC683C,#FFFFFF,Code-128
+Leroy Merlin,leroy_merlin,#7BB51C,#000000,Code-128
+Lidl,lidl,#003378,#FFE300,QR
+Lukoil,lukoil,#E03242,#FFFFFF,QR
+Mega Image,mega_image,#FFFFFF,#EC342E,EAN-13
+METRO,metro,#1B3D7A,#FEE434,Code-2of5 Interleaved
+Mol,mol,#FFFFFF,#E12C33,Code-128
+Nala,nala,#000000,#FFFFFF,EAN-13
+OMV,omv,#074679,#FFFFFF,Code-128
+Penny,penny,#CC2229,#FFFFFF,EAN-13
+Profi,profi,#E20E1A,#FFFFFF,Unknown
+Reserved,reserved,#000000,#FFFFFF,Code-128
+Selgros,selgros,#FE001A,#000000,EAN-13
+Sensiblu,#000000,#006EB9,EAN-13
+United Business Center,united_business_center,#2F2E33,#E8CD9E,N/A
+VIVA Pharm,viva_pharm,#2A7559,#CC527F,Code-128
+Yves Rocher,yves_rocher,#88993D,#4F3925,Code-128
+Zoomania,zoomania,#FFFF00,#000000,EAN-13
